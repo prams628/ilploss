@@ -246,6 +246,5 @@ dependencies:
     - lpmp-py==0.0.1
     - pretty-errors==1.2.25
     - pybind11==2.9.2
-    - smart-settings==1.1
 variables:
   PACKAGES: gm
